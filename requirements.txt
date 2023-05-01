@@ -1,2 +1,2 @@
 -e git+https://github.com/interactivelife/keycloak-adapter@master#egg=keycloak-adapter
-Flask==1.0.2
+Flask==2.3.2
